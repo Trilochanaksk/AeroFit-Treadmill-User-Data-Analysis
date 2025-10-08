@@ -154,10 +154,3 @@ This project demonstrates how **data analytics** can transform raw treadmill usa
 By leveraging visualization and statistical patterns, **AeroFit** can better align its marketing and product development with actual user behavior.
 
 > ⭐ *If you found this project helpful, don’t forget to star the repo!* 🌟
-
-```
-
----
-
-Would you like me to add a **GitHub badge section** at the top (for Python, Jupyter, Pandas, Seaborn, etc.) to make it look even more professional and tech-styled like a portfolio project?
-```
