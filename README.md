@@ -1,7 +1,4 @@
 
----
-
-````markdown
 # 🏃‍♂️ AeroFit Treadmill User Data Analysis  
 > 📊 *Unlocking fitness insights through data-driven analytics*
 
